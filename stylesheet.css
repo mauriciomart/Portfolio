@@ -1,0 +1,100 @@
+body {
+	background-color: #ebebe0;
+}
+.jumbotron {
+	background-image: url('https://content-static.upwork.com/blog/uploads/sites/4/2014/03/web-development-outline_crop-645x285.jpg');
+	background-size: cover;
+	background-position: cdnter -230px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	padding: 25%;
+	width: 100%;
+	margin-top: -30px;
+	margin-bottom: -20px;
+}
+.jumbotron h1 {
+	position: absolute;
+	top: 50;
+	left: 0;
+	padding-left: 10px;
+	color: #ffffcc;
+}
+.mission {
+	background-color: #999966;
+	color: #F7FAFE;
+	margin-top: 10px;
+}
+
+.mission h3 {
+	font-family: 'raleway' , 'sans-serif'
+	padding: 20% 20%;
+	text-align: center;
+	position: center;
+}
+
+
+.work {
+	padding: 5% 0;
+
+}
+
+.work p { font-family: "muli", 'sans-serif';
+	color: #323232;
+	font-size: 1.5em;
+	padding-top: 10px
+}
+
+.navbar{
+	background-color: #999966;
+	padding-top: 5%;
+
+} 
+
+
+footer {
+	background-color: #999966;
+	width: 100%;
+	position: center;
+	height: auto;
+}
+
+footer ul li {
+	display: inline-block;
+	list-style: none;
+	padding: 2%;
+	position: center;
+}
+footer p {
+	float: center;
+	padding: 2%;
+}
+footer a {
+	color: #000000;
+	vertical-align: middle;
+}
+
+@media screen and (max-width: 776px) {
+	.features img{
+		max-width: 90%;
+		margin: auto;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
